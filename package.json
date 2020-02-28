@@ -1,0 +1,20 @@
+{
+  "name": "tic-tac-toe-tech-test",
+  "version": "1.0.0",
+  "description": "## Overview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaunlsy/tic-tac-toe-tech-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaunlsy/tic-tac-toe-tech-test/issues"
+  },
+  "homepage": "https://github.com/shaunlsy/tic-tac-toe-tech-test#readme"
+}
